@@ -17,4 +17,5 @@ Btw, if you just want to take a look of how the software looks like, I paste som
 ![load](https://github.com/Mariscurrena/GCS-CanSat-2022/assets/111027054/e8416369-f60a-4d1d-8ec1-93f6f7bedb49)
 ![fly](https://github.com/Mariscurrena/GCS-CanSat-2022/assets/111027054/bf65bb8b-30c2-4a30-b8d2-71037c3e916a)
 ![sim](https://github.com/Mariscurrena/GCS-CanSat-2022/assets/111027054/43464c78-8905-4a39-ada8-4a6c5601ae5c)
+
 These are the main stages of the application.
