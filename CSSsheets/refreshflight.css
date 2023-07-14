@@ -1,0 +1,13 @@
+.button{
+    -fx-background-radius: 50em; 
+	-fx-min-width: 100px; 
+	-fx-min-height: 100px; 
+	-fx-max-width: 100px;
+	-fx-max-height: 100px;
+	-fx-background-color: #000023;
+	-fx-font-size: 18;
+	-fx-font-family: "Arial Rounded MT Bold";
+	-fx-text-fill: #E7F2FF;
+	-fx-alignment: center ;
+    -fx-padding: 10 ;
+}

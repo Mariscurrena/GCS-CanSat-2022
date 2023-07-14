@@ -1,0 +1,11 @@
+.toggle-button{
+    -fx-background-radius: 50em; 
+	-fx-min-width: 150px; 
+	-fx-min-height: 150px; 
+	-fx-max-width: 150px;
+	-fx-max-height: 150px;
+	-fx-background-color: #000024;
+	-fx-font-size: 300%;
+	-fx-font-family: "Verdana";
+	-fx-text-fill: #E7F2FF;
+}

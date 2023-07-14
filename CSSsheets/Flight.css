@@ -1,0 +1,69 @@
+.root{
+	-fx-background-image: url('../Images/FlightV4.png');
+    -fx-background-repeat: stretch;   
+    /*-fx-background-size: 1536 , 864;*/
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+.label{
+	-fx-font-size: 200%;
+	-fx-font-family: "Arial Rounded MT Bold";
+	-fx-text-fill: #BDEEFF;
+	-fx-alignment: center;
+}
+.combo-box{
+    -fx-font-family: "Arial Rounded MT Bold";
+    -fx-background-color: #BDEEFF;
+    -fx-text-fill: #52017A;
+    -fx-font-size: 100%;
+}
+.text-field {
+    -fx-font-family: "Arial Rounded MT Bold";
+    -fx-background-color:  rgba(112, 48, 160,0.075);
+    -fx-text-fill: #BDEEFF;
+    -fx-font-size: 125%;
+    -text-align: center;
+}
+.battery { 
+	-fx-font-size: 150%;
+	-fx-font-family: "Lucida Console";
+	-fx-text-fill: #BDEEFF;
+	-fx-alignment: center; 
+}
+.border{
+	-fx-background-color:  rgba(112, 48, 160,0.01);
+}
+.chart-series-line{
+	-fx-stroke-width: 1px;
+}
+.default-color0.chart-series-area-line {
+	-fx-stroke: rgb(0,255,0,175);
+}
+.default-color0.chart-series-area-fill {
+	-fx-fill: rgb(0,255,0,0.085);
+}
+.default-color0.chart-series-line{
+	-fx-stroke:#FF007F;
+}
+.chart-title {
+  -fx-text-fill: #B0D6FF;
+  -fx-font-size: 10;
+}
+.axis-label {
+  -fx-text-fill: #B0D6FF;
+  -fx-font-size: 15;
+}
+.chart-plot-background {
+    -fx-background-color: transparent;
+}
+.chart-vertical-grid-lines {
+    -fx-stroke: #728BD0;
+}
+.chart-horizontal-grid-lines {
+    -fx-stroke: #728BD0;
+}
+.axis {
+    -fx-font-size: 0;    
+    -fx-tick-length: 0;
+    -fx-minor-tick-length: 0;
+}

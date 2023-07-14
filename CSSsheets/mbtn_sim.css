@@ -1,0 +1,18 @@
+.button {
+	-fx-background-color: #060714;
+	-fx-font-size: 150%;
+	-fx-font-family: "Arial Rounded MT Bold";
+	-fx-text-fill: #FFDBDB;
+}
+.toggle-button{
+    -fx-background-color: #060714;
+	-fx-font-size: 150%;
+	-fx-font-family: "Arial Rounded MT Bold";
+	-fx-text-fill: #FFDBDB;
+}
+.toggle-button:selected{
+    -fx-background-color: #FFDADA;
+	-fx-font-size: 150%;
+	-fx-font-family: "Arial Rounded MT Bold";
+	-fx-text-fill: #060714;
+}

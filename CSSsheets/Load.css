@@ -1,0 +1,12 @@
+.root{
+	-fx-background-image: url('../Images/loadscreenv2.png');
+    -fx-background-repeat: stretch;   
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+.label{
+	-fx-font-size: 25;
+	-fx-font-family: "Lucida Console";
+	-fx-text-fill: "white";
+	-fx-alignment: center;
+}
