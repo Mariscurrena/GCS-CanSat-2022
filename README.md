@@ -11,3 +11,10 @@ I see that you arrived to this project. Let me explain some things.
 This software was developed for myself, but is property of Cuauhtemoc IPN Aeroespace, so feel free to check it in order to solve some doubts and learn more about this kind of software. However, I really encourage you to make your own Graphical Interface for a Sat's Ground Control Station. This is just one of the million the possibilities that this type of interface has.
 
 Best regards, Angel!
+
+Btw, if you just want to take a look of how the software looks like, I paste some photos for you, enjoy it!
+
+![load](https://github.com/Mariscurrena/GCS-CanSat-2022/assets/111027054/e8416369-f60a-4d1d-8ec1-93f6f7bedb49)
+![fly](https://github.com/Mariscurrena/GCS-CanSat-2022/assets/111027054/bf65bb8b-30c2-4a30-b8d2-71037c3e916a)
+![sim](https://github.com/Mariscurrena/GCS-CanSat-2022/assets/111027054/43464c78-8905-4a39-ada8-4a6c5601ae5c)
+These are the main stages of the application.
